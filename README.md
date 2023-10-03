@@ -18,7 +18,7 @@
 
 ``Use Automation``
 
-Git clone: 
+Git clone:  https://github.com/LizehtM/RetoChoucair.git
 
 Open IDEA: I recommend: intelliJ
 
